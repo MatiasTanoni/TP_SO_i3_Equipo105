@@ -1,0 +1,15 @@
+Matias Tanoni
+Tadeo Vazquez
+
+a) Con los archivos agregados a las dos ramas y también los del main.
+b) Si, al hacer el merge de las ramas
+c) Cambiarte a la rama main:
+git checkout main
+Hacer el merge:
+git merge nombre-rama
+Resolver conflictos (si los hay), luego:
+git add .
+git commit
+Subir los cambios al remoto:
+git push origin main
+
