@@ -1,0 +1,19 @@
+processor       : 0
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 151
+model name      : 12th Gen Intel(R) Core(TM) i5-12400F
+stepping        : 5
+microcode       : 0x2C
+cpu MHz         : 2500.000
+cache size      : 18432 KB
+physical id     : 0
+siblings        : 12
+core id         : 0
+cpu cores       : 6
+apicid          : 0
+initial apicid  : 0
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 20
+wp              : yes
