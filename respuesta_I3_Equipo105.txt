@@ -12,4 +12,15 @@ git add .
 git commit
 Subir los cambios al remoto:
 git push origin main
-
+d) No , solo con los datos que se le agregaron a cada rama
+e) No tuvimos nignun problema al hacer el merge ya que al ser 2 integrantes no surgieron problemas de sincronizacion
+f) git clone -b Tanoni https://github.com/MatiasTanoni/TP_SO_i3_Equipo105 (para descargar localmente la rama)
+   git checkout Tanoni (para  entrar a la rama)
+   git add .
+   git commit -m "."
+   git push origin Tanoni (para pushear los cambios en la rama)
+g) git clone -b Tanoni https://github.com/MatiasTanoni/TP_SO_i3_Equipo105 (para descargar localmente la rama)
+   git checkout Tanoni (para  entrar a la rama)
+   git add .
+   git commit -m "."
+   git push origin Tanoni (para pushear los cambios en la rama)
