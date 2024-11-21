@@ -1,5 +1,5 @@
 Matias Tanoni 09:05
-
+Tadeo Vazquez 09:12
 
 
 Configuración IP de Windows
@@ -40,3 +40,35 @@ Adaptador de Ethernet Conexión de red Bluetooth:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
    Sufijo DNS específico para la conexión. . :
+--------------------------------------------------------------------------------
+enp0s3: flags=4163<UP, BROADCAST, RUNNING, MULTICAST> mtu 1500 inet 10.0.2.15 netmask 255.255.255.0 broadcast 10.0.2.255
+
+inet6 fe80::a00:27ff:fe29:649f prefixlen 64 scopeid 0x20<link>
+
+ether 08:00:27:29:64:9f txqueuelen 1000 (Ethernet)
+
+RX packets 172 bytes 217619 (217.6 KB)
+
+RX errors 0 dropped 0 overruns 0 frame 0
+
+TX packets 225 bytes 19540 (19.5 KB)
+
+TX errors o dropped 0 overruns 0 carrier 0 collisions 0
+
+lo: flags=73<UP, LOOPBACK, RUNNING> mtu 65536
+
+inet 127.0.0.1 netmask 255.0.0.0
+
+inet6::1 prefixlen 128 scopeid 0x10<host>
+
+loop txqueuelen 1000 (Local Loopback)
+
+RX packets 132 bytes 11813 (11.8 KB)
+
+RX errors 0 dropped 0 overruns 0 frame 0
+
+TX packets 132 bytes 11813 (11.8 KB)
+
+TX errors 0 dropped 0 overruns 0 carrier 0 collisions 0
+
+
